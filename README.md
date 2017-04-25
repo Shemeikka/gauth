@@ -1,5 +1,5 @@
 # gauth
-Authentication library written in Go for iLumnet API.
+Authentication library written in Go.
 
 ## Authentication
 
